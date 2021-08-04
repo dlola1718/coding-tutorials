@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.exe
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.deps.json
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.runtimeconfig.json
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.runtimeconfig.dev.json
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.dll
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\bin\Debug\netcoreapp3.1\CSHARP.pdb
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.AssemblyInfoInputs.cache
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.AssemblyInfo.cs
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.dll
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.pdb
+\\vmware-host\Shared Folders\Desktop\Coding_tutorial\C#_Tutorial\CSHARP\CSHARP\obj\Debug\netcoreapp3.1\CSHARP.genruntimeconfig.cache
