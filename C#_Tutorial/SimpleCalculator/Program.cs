@@ -13,7 +13,7 @@ namespace SimpleCalculator
 
             Console.Write("Enter another number: ");
             int num2 = Convert.ToInt32(Console.ReadLine());
-
+            
 
 
 
